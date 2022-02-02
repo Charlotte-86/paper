@@ -1,13 +1,16 @@
-#Title
+# Title
 Oh no etc.
 
-#Author
+# Author
 Emily Friend
 Harry Yeti
 
-#Introduction
+# Introduction
 Things were going very badly.
 As confirmed by Micheal (2019) and Dickinson (2020).
 
-#Simulations
+# Simulations
 Simulating diaster situations.
+
+# Methodology
+We made things go badly. Referenced in Midas (2021).
