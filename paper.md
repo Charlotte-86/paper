@@ -4,6 +4,7 @@ Oh no etc.
 # Author
 Emily Friend
 Harry Yeti
+Jeremy Peters
 
 # Introduction
 Things were going very badly.
