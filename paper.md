@@ -1,8 +1,9 @@
 #Title
-Oh no
+Oh no (simulated)
 
 #Author
 Emily Friend
+Harry Yeti
 
 #Introduction
 Things were going very badly.
